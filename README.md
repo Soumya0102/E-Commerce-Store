@@ -65,7 +65,7 @@ e-commerce-store/
 After completing the above steps, your e-commerce store should be up and running with the following:
 
 - **Backend**: Running on the specified port (check your `index.js` for details).
-- **Frontend**: Accessible via your local machine at `http://localhost:3000`.
+- **Frontend**: Accessible via your local machine at `http://localhost:4000`.
 - **Admin Panel**: Accessible via your local machine at the specified port (check your setup for details).
 
 Happy coding! If you encounter any issues, feel free to consult the documentation or reach out for support.
